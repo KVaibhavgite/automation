@@ -1,4 +1,4 @@
-package com.Collection;
+package Collection;
 
 
 
